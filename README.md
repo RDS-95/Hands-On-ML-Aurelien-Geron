@@ -1,4 +1,4 @@
-These are python notebook I created while working through the textbook:
+These are python notebooks I created while working through the textbook:
 
 "Hands-on Machine Learning with Scikit-Learn, Keras & TensorFlow" by Aurélien Géron
 
